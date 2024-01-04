@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/https//dowful.github.io/car-physics/static/css/main.a92b501c.css",
-    "main.js": "/https//dowful.github.io/car-physics/static/js/main.9a73eefd.js",
-    "index.html": "/https//dowful.github.io/car-physics/index.html",
-    "main.a92b501c.css.map": "/https//dowful.github.io/car-physics/static/css/main.a92b501c.css.map",
-    "main.9a73eefd.js.map": "/https//dowful.github.io/car-physics/static/js/main.9a73eefd.js.map"
+    "main.css": "./static/css/main.a92b501c.css",
+    "main.js": "./static/js/main.10ceea27.js",
+    "index.html": "./index.html",
+    "main.a92b501c.css.map": "./static/css/main.a92b501c.css.map",
+    "main.10ceea27.js.map": "./static/js/main.10ceea27.js.map"
   },
   "entrypoints": [
     "static/css/main.a92b501c.css",
-    "static/js/main.9a73eefd.js"
+    "static/js/main.10ceea27.js"
   ]
 }
